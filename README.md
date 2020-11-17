@@ -1,6 +1,11 @@
 ## js-contruct
-study project - site-constructor on pure js
 
+Сайт-конструктор, написанный на чистом JS, без использования фреймворков и сторонних библиотек.
+Сделан в рамках учебного курса, с использованием концепций ООП.
+
+Собран с помощью Parcel, развернут на хостинге Firebase.
+
+Study project written on pure JS.
 Learned a little about OOP, Parcel, Firebase
 
 ## deployed
